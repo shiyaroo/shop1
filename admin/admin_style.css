@@ -1,0 +1,11 @@
+body {background:#69F;}
+
+#header { color:yellow; width:100%; background:#69F; height:200px; border-bottom:5px solid black ; }
+
+#sidebar { width:300px; float:left; background: #69F; border-right:5px solid black; height:600px;}
+
+#sidebar h2 { text-align:left; font-size:2em; color:red;}
+
+#header h1 {color:black; font-size:3em; font-family:"Comic Sans MS", cursive; text-align:center; padding-top:20px;}
+
+#Welcom { margin:10px; padding:10px; text-align:left; color:white;}
